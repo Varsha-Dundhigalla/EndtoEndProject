@@ -1,0 +1,28 @@
+{
+	"jupyter.kernels.filter": [
+		{
+			"path": "/opt/anaconda3/bin/python",
+			"type": "pythonEnvironment"
+		},
+		{
+			"path": "/Users/varshadundhigalla/opt/anaconda3/bin/python",
+			"type": "pythonEnvironment"
+		},
+		{
+			"path": "/Users/varshadundhigalla/.pyenv/versions/2.7.18/bin/python",
+			"type": "pythonEnvironment"
+		},
+		{
+			"path": "/opt/homebrew/bin/python3",
+			"type": "pythonEnvironment"
+		},
+		{
+			"path": "/usr/local/bin/python3",
+			"type": "pythonEnvironment"
+		},
+		{
+			"path": "/usr/bin/python3",
+			"type": "pythonEnvironment"
+		}
+	]
+}
